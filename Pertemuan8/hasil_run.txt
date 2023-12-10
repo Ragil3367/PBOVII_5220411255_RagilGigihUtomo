@@ -1,1 +1,17 @@
-
+disimpan pada.....
+disimpan pada.....
+disimpan pada.....
+judul :Harry Potter,
+ subjek :buku
+ISBN : 55291
+pengarang : J.K. Rowling
+jumlah halaman : 100
+ukuran : 40x40
+judul :komputer,
+ subjek :majalah
+volume : 5
+issue : A
+judul :Spider-Man,
+ subjek :film
+aktor : peter
+genre : action
